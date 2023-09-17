@@ -20,7 +20,7 @@
  *   time a set of code changes is merged to the master branch.
  */
 
-#define SRPC_VERSION_NUMBER 1
+#define SRPC_VERSION_NUMBER 2
 #define SRPC_VERSION_STRING "srpc/" SRPC_STRINGIZE(SRPC_VERSION_NUMBER)
 
 #endif
